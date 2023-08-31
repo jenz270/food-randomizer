@@ -1,0 +1,5 @@
+export const FOOD_RANDOMIZER = "Food Randomizer"
+export const RANDOMIZE = "Randomize!"
+export const LETS_EAT = "Let's Eat!"
+export const BACK = "Back"
+export const MENU = "The food on your menu for today is..."
